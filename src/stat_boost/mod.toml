@@ -1,8 +1,0 @@
-manifest_version = 2
-name = "Stat Boost"
-version = "1.0.0"
-game_version = "1.2.0"
-author = "you"
-description = "Adds Enemy HP, Enemy Damage and EXP Gain sliders to the Options screen (mods page). Lower enemy HP/damage makes the party hit harder and take less."
-code = "stat_boost"
-platform = ""
