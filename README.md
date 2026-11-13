@@ -44,3 +44,5 @@ Release and generates `catalog.json` next to them
 is unavailable. Only the ids listed in `catalog.toml` are included, so add a
 mod there to publish it; `featured` ids sort to the top. An `icon.png` in the
 mod's source folder becomes its catalog icon.
+
+
